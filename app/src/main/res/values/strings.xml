@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment03</string>
+
+    <string-array name="ActivityList">
+        <item>Please Choose</item>
+        <item>Walk</item>
+        <item>Run</item>
+        <item>Jump</item>
+    </string-array>
+    
+</resources>
